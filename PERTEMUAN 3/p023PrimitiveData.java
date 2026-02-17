@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 public class p023PrimitiveData {
     public static void main(String[] args) {
         //// Tipe data bilangan bulat

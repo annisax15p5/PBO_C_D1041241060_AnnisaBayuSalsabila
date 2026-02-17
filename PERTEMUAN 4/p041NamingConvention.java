@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 public class p041NamingConvention {
     //Deklarasi nilai PI dengan CONSTANT_CASE (tidak berubah-ubah)
     public static final double PI = 3.14;

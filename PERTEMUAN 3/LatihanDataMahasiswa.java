@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 public class LatihanDataMahasiswa {
     public static void main (String[] args){
         //Deklarasi NIM dengan tipe data long

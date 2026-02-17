@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 public class LatihLiteral {
     public static void main (String[] args){
     //Deklarasi tipe data byte

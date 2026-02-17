@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 public class LatihPerhitungan {
     public static void main (String[] args){
         //Deklarasi saldo awal dengan tipe data int

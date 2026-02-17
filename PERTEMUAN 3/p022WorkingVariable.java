@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 public class p022WorkingVariable {
     public static void main (String[] args){
         // Deklarasi dan inisialisasi variable
