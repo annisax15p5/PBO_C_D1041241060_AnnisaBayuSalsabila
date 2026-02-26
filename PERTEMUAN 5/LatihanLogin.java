@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 public class LatihanLogin {
     public static void main(String[] args) {
         //deklarasi variable username dan password

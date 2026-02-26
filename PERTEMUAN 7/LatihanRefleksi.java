@@ -19,7 +19,7 @@ public class LatihanRefleksi {
         //Looping Dengan Do While
         System.out.println("=== MENGGUNAKAN DO-WHILE ===");
         do { 
-            System.out.print(angkaSekarang + " ");
+            System.out.println(angkaSekarang + " ");
             //update dengan menambah angka sehingga iterasi bertambah
             angkaSekarang++;
         } while (angkaSekarang <= 5); //kondisi untuk berhenti
@@ -28,7 +28,7 @@ public class LatihanRefleksi {
         System.out.println("=== MENGGUNAKAN FOR ===");
         // Inisialisasi kemudian diberikan kondisi perulangan, dan dilakukan update dengan menambah nilai agar iterasi terus bertambah sampai batas yang ditentukan.
         for (int i = 1; i <= 5; i++){
-            System.out.print(i + " ");
+            System.out.println(i + " ");
         }
     }
 }
