@@ -9,7 +9,7 @@ public class LatihanRefleksi {
         //Looping dengan while
         System.out.println("=== MENGGUNAKAN WHILE ===");
         while (angkaSekarang <= 5){
-            System.out.print(angkaSekarang + " ");
+            System.out.println(angkaSekarang + " ");
             //update dengan menambah angka sehingga iterasi bertambah
             angkaSekarang++;
         }

@@ -10,8 +10,8 @@ public class LatihanDeretGanjil {
         System.out.println("=== BILANGAN GANJIL 1-15 ===");
         //Menggunakan while loop untuk iterasi sampai angka kurang dari sama dengan 15
         while (angkaGanjil <= 15){
-            System.out.print(angkaGanjil + " "); //Untuk tampilan dalam satu baris dipisah spasi 
-            //tNilai angka ditambah 2 pada setiap iterasi (angka += 2) sehingga yang ditampilkan hanya bilangan ganjil.
+            System.out.println(angkaGanjil + " "); //Untuk tampilan dalam satu baris dipisah spasi 
+            //Nilai angka ditambah 2 pada setiap iterasi (angka += 2) sehingga yang ditampilkan hanya bilangan ganjil.
             angkaGanjil += 2;
         }
     }
