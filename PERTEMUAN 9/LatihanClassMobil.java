@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 //deklarasi class yaitu mobil
 class Mobil{
     //deklarasi atribut dari class mobil

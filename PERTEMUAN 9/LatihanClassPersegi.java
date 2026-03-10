@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 //deklarasi class yaitu persegi
 class Persegi{
     //deklarasi atribut untuk class persegi
@@ -36,5 +40,6 @@ public class LatihanClassPersegi {
     persegi1.hitungKeliling();
     //panggil method untuk menampilkan hasil
     persegi1.tampilkanHasil();
+    System.out.println();
     }
 }

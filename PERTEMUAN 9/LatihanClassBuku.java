@@ -1,3 +1,7 @@
+/*
+Nim  : D1041241060
+Nama : Annisa Bayu Salsabila
+ */
 //deklarasi class yaitu buku
 class Buku {
     //deklarasi atribut dari class buku
